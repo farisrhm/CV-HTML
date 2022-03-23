@@ -1,0 +1,34 @@
+body{
+    /*Ceci est un commentaire */
+    background-color: #E5E3C9;
+}
+
+div{
+    background-color: #BB9981;
+    color: white;
+}
+
+.premier{
+    width : 80%;
+    color : white
+}
+.conteneur{
+    width: 80%;
+}
+#cp{
+    margin: 0 auto;
+}
+
+#cd{
+    margin: 0 auto;
+}
+
+.gras{
+    font-weight: bold;
+}
+.fondjaune{
+    background-color: yellow;
+}
+.noir{
+    color: black;
+}
